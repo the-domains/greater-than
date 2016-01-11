@@ -1,6 +1,7 @@
 name: Greater Than
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.25659
+typography_spectrum: 0.50176
 title: This is the portfolio and blog of Dr. Majid Al Qassimi in the realm of Woodworking and Design.
 cta:
   domain: null
@@ -15,11 +16,16 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#ececec'
+    - '#0a0a0a'
+    - '#b3b3b3'
+    - '#72757e'
+    - '#5a4d47'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.6875
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose:
   - name: engagement
     item: 3386c409-f77a-4ff1-b158-ceea707eae6d
